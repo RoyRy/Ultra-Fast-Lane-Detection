@@ -1,6 +1,6 @@
-这是一个车道线检测模型，本项目根据原作者的github项目，修改部分参数，更快速地训练测试自己的标注数据集。
+这是一个车道线检测模型，在知乎答主梦里寻梦的项目基础上完善了数据集制作、检查和模型测试流程。
 
-详细修改细节参见知乎专栏：https://zhuanlan.zhihu.com/p/608319948
+知乎链接：https://zhuanlan.zhihu.com/p/608319948
 
 原作者github链接：https://github.com/cfzd/Ultra-Fast-Lane-Detection
 
